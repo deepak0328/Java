@@ -1,4 +1,4 @@
-impoert java.util.Scanner;
+import java.util.Scanner;
 
 class PosRNeg{
 	public static void main(String args[]){
@@ -10,3 +10,5 @@ class PosRNeg{
 			System.out.println("Negative");
 		if(num==0)
 			System.out.println("Zero");
+	}
+}
