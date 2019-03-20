@@ -8,7 +8,7 @@ class VowelRConst{
 			if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u' || ch=='A' || ch=='E' || ch=='I' || ch=='O' || ch=='U')
 				System.out.println("Vowel");
 			else
-				System.out.println("Constant");
+				System.out.println("Consonant");
 		}
 		else{
 			/*for(int i=0;i<c.length;i++){
